@@ -1,0 +1,22 @@
+{
+  "name": "ngcompile",
+  "version": "0.0.0",
+  "authors": [
+    "Angular JS Team"
+  ],
+  "description": "Bower-ified compile directive from the AngularJS $compile documentation.",
+  "main": "directives/ngcompile.js",
+  "keywords": [
+    "$compile",
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "homepage": "http://docs.angularjs.org/api/ng.$compile",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
